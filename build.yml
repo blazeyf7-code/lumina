@@ -1,4 +1,4 @@
-name: build-lumina
+name: github/workflows/build.yml.
 on:
   push:
   workflow_dispatch:
